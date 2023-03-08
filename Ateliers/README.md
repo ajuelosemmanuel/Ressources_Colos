@@ -11,7 +11,7 @@ Liste des ateliers :
   + Durée : 45 minutes environ
 + 🚧 Présentation sur la sécurité informatique 🚧 : Domaine fascinant, c'est l'occasion de présenter les nombreuses disciplines en sécurité, en allant du reverse engineering à la gouvernance (même si c'est plus cool de voir de la technique pour les jeunes). C'est aussi l'occasion de faire une petite démo à la fin.
   + Durée : 1h30
-+ 🚧 Ateliers d'introduction à la sécurité informatique 🚧 : Très difficile à faire en colo, je réfléchis encore sur ce qu'il faut faire. Je pense faire du Jeopardy-style CTF avec beaucoup d'explications, mais c'est très long à faire. J'utiliserai sûrement CTFd comme base.
++ [Ateliers d'introduction à la sécurité informatique](ateliers_cybersec.md) : Explications sur comment mener des ateliers sur la cybersécurité en colo.
   + Durée : à déterminer en fonction du format
 + 🚧 Raspberry Pi 🚧 : Uniquement si le matériel de colo nous le permet ! C'est l'occasion de montrer comment fonctionne Linux, certaines commandes, mais aussi (et surtout) la multitude de choses que l'on peut faire : Faire tourner un bot Discord, un site web, ...
   + Durée : 1h30
