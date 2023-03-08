@@ -18,7 +18,7 @@ Il faut un MJ qui donne des instructions aux équipes, du style :
 
 Il n'y a pas de limites, et rien n'est imposé : il faut adapter le jeu en fonction du niveau des jeunes. N'hésitez pas à les inciter à faire des erreurs pour voir une boucle infinie dans la vraie vie.
 
-Du côté des robots, il faut suivre le RP du manuel à la lettre, le RP est important !
+Du côté des robots, il faut suivre le RP du manuel à la lettre, le RP est vraiment important dans ce jeu, sinon on tue l'immersion !
 
 ---
 
