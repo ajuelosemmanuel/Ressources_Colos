@@ -24,7 +24,7 @@ Il faut impérativement :
 + Tours de cou pour les enfants qui ont un retour en train en province
 + Totem Telligo - IMPORTANT : noter les noms des séjours au siège avec leur marqueur
 + Poster de la charte animateur
-+ Etiquettes bagages (1.5 x enfants pour être safe, 1 x enfants mini)
++ Etiquettes bagages (1.5 x enfants+anims pour être safe, 1 x enfants+anims mini)
 + Billets de train
 + Contrats de travail de chaque anim + directeur
 + Formulaire Cerfa `11383*02` en cas d’accident du travail
