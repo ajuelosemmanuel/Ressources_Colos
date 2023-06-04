@@ -28,7 +28,7 @@ Il faut impérativement :
 + Billets de train
 + Contrats de travail de chaque anim + directeur
 + Formulaire Cerfa `11383*02` en cas d’accident du travail
-+ Téléphone portable du centre
++ Téléphone portable du centre - vérifier qu'il FONCTIONNE
 + PC portable / appareil photo (optionnel)
 + Bons de réservation si précisé
 + Autorisations de sortie du territoire vierges si nécessaire
