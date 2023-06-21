@@ -26,19 +26,23 @@ Il faut impérativement :
 + Poster de la charte animateur
 + Etiquettes bagages (1.5 x enfants+anims pour être safe, 1 x enfants+anims mini)
 + Billets de train
-+ Contrats de travail de chaque anim + directeur
 + Formulaire Cerfa `11383*02` en cas d’accident du travail
 + Téléphone portable du centre - vérifier qu'il FONCTIONNE
 + PC portable / appareil photo (optionnel)
-+ Bons de réservation si précisé
 + Autorisations de sortie du territoire vierges si nécessaire
++ Remplir la flamme Telligo avec leur marqueur (le grand truc jaune en tissu)
++ Vérifier que la vis rentre bien dans la base (important)
++ Prendre des fiches inventaire pour les petits
++ Vérifier que l'on a les numéros :
+    + Du conduteur du car
+    + Du service de Telligo pour le SMS de bonne arrivée
 
 ----
 
 ## Rappel
 
 Compter les billets de train à l'aller et au retour !
-Comparer les horaires et lieux de RDV (Paris ET province) avec les billets
+Comparer les horaires et lieux de RDV (Paris ET province) avec ceux des billets
 Faire le point sur les convoyages province
 Signer la feuille d’émargement
 Prendre des t-shirts Telligo si des membres de l'équipe n'en ont pas !
