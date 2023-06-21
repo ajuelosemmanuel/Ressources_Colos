@@ -42,7 +42,11 @@ Il faut impérativement :
 ## Rappel
 
 Compter les billets de train à l'aller et au retour !
+
 Comparer les horaires et lieux de RDV (Paris ET province) avec ceux des billets
+
 Faire le point sur les convoyages province
+
 Signer la feuille d’émargement
+
 Prendre des t-shirts Telligo si des membres de l'équipe n'en ont pas !
