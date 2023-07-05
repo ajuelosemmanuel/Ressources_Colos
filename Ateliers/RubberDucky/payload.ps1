@@ -18,3 +18,4 @@ SystemParametersInfo( SetDesktopWallpaper, 0, path, UpdateIniFile | SendWinIniCh
 "@
 Add-Type -TypeDefinition $setwallpapersrc
 [wallpaper]::SetWallpaper($output)
+Remove-Item -Path $output
