@@ -43,7 +43,7 @@ Les animateurs de la fausse veillée la commencent - pendant ce temps-là, les p
 
 Quand tout est prêt, ils vont se montrer pendant l'autre veillée, et seront repoussés par les animateurs restants, qui seront rejoints par les deux médecins de la vraie veillée.
 
-On fait les équipes, on les briefe sur la veillée et c'est parti !
+On fait les équipes, on les briefe sur la veillée, on les vaccine pour ne pas qu'ils soient infectés et c'est parti !
 
 La veillée s'achève si la matrice est complétée OU qu'une équipe n'a plus que 0 vies.
 
