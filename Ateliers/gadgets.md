@@ -64,4 +64,4 @@ Aujourd'hui, ils sont considérés comme essentiels dans le monde du renseigneme
     - peut se brancher sur des circuits électroniques pour faire des tests
     - peut se brancher à un ordinateur par USB afin de lancer des commandes tout seul
 - pour la dernière fonctionnalité, une alternative à 5 euros grand max : diy rubber ducky
-    - démo avec le mien, explication du fonctionnement !
+    - démo avec le mien, explication du fonctionnement ! - Pour mettre à jour le script, je dois modifier le fichier payload dans ce repo github :)
