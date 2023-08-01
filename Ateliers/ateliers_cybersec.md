@@ -15,11 +15,9 @@ Il me semble qu'il est primordial de commencer par un atelier de sensibilisation
 
 Il faut que les jeunes soient responsables - et c'est le rôle de l'animateur de l'assurer.
 
-Cette présentation est décrite dans un autre fichier.
-
 ## Pour aller plus loin
 
-Vers la fin de la colo et si vous avez du temps (et une équipe de choc), je vous conseille de faire une veillée CTF avec une plateforme custom, en utilisant [CTFd](https://github.com/CTFd/CTFd). C'est facile à mettre en place, mais ça demande vraiment beaucoup de boulot de préparation.
+Vers la fin de la colo et si vous avez du temps (et une équipe de choc), je vous conseille de faire une veillée CTF avec une plateforme custom, en utilisant [CTFd](https://github.com/CTFd/CTFd). C'est facile à mettre en place, mais ça demande vraiment beaucoup de boulot de préparation. Avec cet outil, vous pourrez faire des challenges par équipe dans plusieurs domaines, et c'est super stylé :)
 
 ## Conseils pour les animateurs
 
