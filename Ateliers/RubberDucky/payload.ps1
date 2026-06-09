@@ -5,7 +5,7 @@
 $url = "https://raw.githubusercontent.com/ajuelosemmanuel/Ressources_Colos/main/Ateliers/RubberDucky/okcomputer.png"
 
 # 3. Use the TEMP directory to avoid OneDrive path issues, and use the correct .png extension
-$output = "$env:TEMP\okcomputer.png"
+$output = "$env:USERPROFILE\Pictures\okcomputer.png"
 
 # 4. Use the modern Invoke-WebRequest instead of the deprecated WebClient
 Invoke-WebRequest -Uri $url -OutFile $output
